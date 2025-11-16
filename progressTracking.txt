@@ -1,0 +1,5 @@
+- used the intal grid to find a distribution of UCXBs
+    - found values of primary and secondary
+    - made a grid of 100k where min primary was 6 <x< 20 and secondary 4<x<10
+    - this grid only retuned 73 UCXBs, not enough to draw any conclusions
+    - rurunning with a million systems in hopes of getting enough for a normal distribution, which can then be used to make a finer grid
