@@ -1,1 +1,3 @@
-- use the intal grid to find a distribution of UCXBs
+- used the intal grid to find a distribution of UCXBs
+    - found values of primary and secondary
+    - made a grid of 100k where min primary was 6 <x< 20 and secondary 4<x<10
