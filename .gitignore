@@ -1,0 +1,8 @@
+1e+00_logs
+1e+00_Zsun_batches
+*.sh
+*.slurm
+InitResearch/SmallTestGridLogs/run_metallicity.py
+InitResearch/SmallTestGridLogs/merge_metallicity.py
+InitResearch/run_metallicity.py
+InitResearch/merge_metallicity.py
