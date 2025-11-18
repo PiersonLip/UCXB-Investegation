@@ -3,3 +3,14 @@
     - made a grid of 100k where min primary was 6 <x< 20 and secondary 4<x<10
     - this grid only retuned 73 UCXBs, not enough to draw any conclusions
     - rurunning with a million systems in hopes of getting enough for a normal distribution, which can then be used to make a finer grid
+        - this grid finished, showed some interesting results. I realized that I had a much different max time then the previous grid, resulting in the donor stars properties being captured in the final state being much different
+        - also discovered 9 NS_WD contacts, which is neat, and I cant believe are actually a real thing lol
+    
+    - Lot of discoveries! 
+        - The data seems to be showing that in every single UCXB the RLO happens with the donor being a non burning stripped hydrogen star. 
+            https://www.aanda.org/articles/aa/full_html/2024/03/aa47806-23/aa47806-23.html
+        - There appears to be a pretty linear relationship between S2 init and final masses!!!!
+        - Old data seems to be really really wrong 
+        -New data evoles MUCH faster
+        - Also, it seems like there is two distributions in S2 init masses, one centered between 5-8 and another between 9-10. Bit worried that this distribution is being cut off by the simulation having a max s2 mass of 10, but needs further investegation
+        - Star one inital mass seems to be very very very strongly cented around a little under 8... 
